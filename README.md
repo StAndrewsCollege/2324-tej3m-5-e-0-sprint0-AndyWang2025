@@ -43,8 +43,7 @@ You will follow the steps outlined below (for both this sprint and those for our
 ![](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AndyWang2025/assets/156111740/d5140eae-b017-4d40-907b-385f6ee097bc)
 - Prototype #2
 ![](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AndyWang2025/assets/156111740/d0c53aab-48cb-4b2d-aa6e-67341cf685c8)
-- Prototype #3
-![](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AndyWang2025/assets/156111740/7f774533-bf26-4bc9-86a4-1e8bea4a4152)
+
 
 ### Testing and Critique
 
