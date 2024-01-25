@@ -29,12 +29,14 @@ You will follow the steps outlined below (for both this sprint and those for our
 
 ### Research
 
-
-You will research and document technical resources that you believe will help you succeed at the sprint.
+- [x] brainstorm with classates
+- [x] youtube video
+    
 
 ### Ideation
 
-You will create quick sketches or descriptions of your planned design
+![sketch of my design](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AndyWang2025/assets/156111740/c2179a0b-040b-4b75-bd05-4a8612614363)
+
 
 ### Prototyping
 
